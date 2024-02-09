@@ -1,12 +1,10 @@
 ## Hi there 👋
-TEST
-<!--
 
-**Here are some ideas to get you started:**
+We're [Protofire](https://protofire.io), a team of Web3 experts with lots of experience in:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- dApps and smart contracts development (like solhint)
+- wallets deployment (like Gnosis SAFE)
+- oracles integration (like Chainlink CCIP)
+- indexing solutions (like The Graph)
+
+Let's get in touch! 🚀
